@@ -1,0 +1,143 @@
+{
+  "name": "Social Defender Parasite - WiFi Security Tool",
+  "version": "1.0.0",
+  "author": "coreymillia + GitHub Copilot CLI",
+  "description": "Ultimate social defender parasite with massive random mystical conversations (139+ words) and aggressive evil portal defense. Features spectacular spinning animations, perfect face positioning, and KILLERBS1 attack system for WiFi security testing.",
+  "category": "Security & Penetration Testing",
+  "device": "M5StickC Plus (Plus1.1 & Plus2)",
+  "homepage": "https://github.com/coreymillia/SocialDefenderParasite",
+  "preview": "",
+  "icon": "",
+  "features": [
+    "🔮 Massive random mystical conversations with 139+ unique words",
+    "⚡ Spectacular spinning animations with perfect face positioning",
+    "🛡️ Aggressive evil portal defense using KILLERBS1 attack method",
+    "🎲 6-12 random message conversations that are never boring",
+    "💀 Dark mystical vocabulary: sigil, wraith, ember, frostloop, etc.",
+    "🌪️ Evil portal defender style spinning with open mouth animation",
+    "📱 Universal firmware works on Plus1.1 and Plus2 (auto-detects)",
+    "⚔️ 300 spam attack requests to overwhelm evil portals",
+    "🤖 Social parasite detection and fake communication system",
+    "🔥 Symbol-rich messages with perfect speech bubble visibility",
+    "🎯 Smart threat detection with 5-minute background scanning",
+    "✨ Mutual parasite protection - friendly parasites don't attack each other"
+  ],
+  "security_features": {
+    "evil_portal_detection": "Targets ANY open WiFi as potentially dangerous",
+    "attack_method": "KILLERBS1 proven effective spam technique",
+    "spam_volume": "300 POST requests with fake credentials",
+    "target_endpoints": "/login, /admin, /portal, /auth, /signin",
+    "credentials": "Caught%20Ya%20Slippin / Ya%20Damn%20Fool",
+    "defensive_philosophy": "Real businesses should use WPA2/WPA3 encryption"
+  },
+  "social_features": {
+    "vocabulary_size": "139+ unique mystical words across 6 categories",
+    "word_categories": ["Mystical", "Nature", "Tech", "Dark/Fantasy", "Emotions", "Compounds"],
+    "conversation_patterns": "6 different random generation patterns",
+    "message_length": "6-12 random messages per conversation (18-36 seconds)",
+    "face_positioning": "Moves up 60 pixels during conversations for perfect visibility",
+    "animation_style": "Evil portal defender spinning with open mouth"
+  },
+  "controls": {
+    "No Controls": "Fully autonomous operation",
+    "Auto Operation": "Scans, detects, attacks, and socializes automatically",
+    "Visual Feedback": "Face expressions show current mode and activity",
+    "Serial Output": "Detailed logging of all activities via USB"
+  },
+  "behavior_modes": {
+    "Normal Mode": "Cute parasite expressions, 5-minute threat scanning",
+    "Social Mode": "Random mystical conversations with spinning animations", 
+    "Defender Mode": "Aggressive evil portal attacks with KILLERBS1 method",
+    "Broadcasting Mode": "Creates fake parasite AP for social discovery"
+  },
+  "requirements": [
+    "1x M5StickC device (Plus1.1 or Plus2)",
+    "No external hardware needed",
+    "WiFi capability for scanning and attacks",
+    "USB connection for serial monitoring (optional)"
+  ],
+  "network": {
+    "scanning": "Continuous WiFi network monitoring",
+    "attack_protocol": "HTTP POST requests to evil portals",
+    "social_protocol": "Open WiFi AP creation for parasite communication",
+    "range": "Standard WiFi range for detection and attacks"
+  },
+  "specifications": {
+    "screen_resolution": "135x240 pixels",
+    "conversation_database": "139+ unique mystical words",
+    "attack_effectiveness": "300 spam requests using KILLERBS1 method",
+    "social_discovery": "20% random chance per scan cycle",
+    "memory_usage": "17.5% RAM (57KB), 89.7% Flash (1.17MB)",
+    "flash_optimization": "Fully packed with features at 89.7% usage"
+  },
+  "firmware": {
+    "bootloader": "0x1000",
+    "partitions": "0x8000", 
+    "app": "0x10000",
+    "merged": true,
+    "flash_offset": "0x0"
+  },
+  "flash_size": "4MB",
+  "chip": "ESP32-PICO (D4 & V3-02)",
+  "installation": {
+    "method": "M5Burner",
+    "file": "SocialDefenderParasite-M5StickC-v1.0-MERGED.bin",
+    "size": "1246496",
+    "md5": "978b63264e5a7b8e8db9114784c670d5",
+    "flash_address": "0x0",
+    "note": "Same firmware auto-detects Plus1.1 vs Plus2!"
+  },
+  "setup_instructions": [
+    "1. Flash firmware to M5StickC Plus device using M5Burner",
+    "2. Device boots and shows cute parasite face",
+    "3. Automatically starts scanning for WiFi threats every 5 minutes",
+    "4. When open WiFi detected → switches to aggressive defender mode",
+    "5. When other parasites detected → engages in mystical conversations",
+    "6. Monitor via serial connection for detailed activity logs"
+  ],
+  "operation_guide": [
+    "🛡️ DEFENDER MODE: Detects evil portals and attacks with 300 spam requests",
+    "🤖 SOCIAL MODE: Finds other parasites and has random mystical conversations", 
+    "😊 NORMAL MODE: Cute expressions while scanning for threats in background",
+    "📡 BROADCAST MODE: Creates AP when lonely to attract other parasites",
+    "⚡ VISUAL FEEDBACK: Face expressions and speech bubbles show current activity",
+    "📊 SERIAL LOGGING: Detailed output of all scanning, attacking, and socializing"
+  ],
+  "mystical_vocabulary": {
+    "sample_words": ["glyph", "sigil", "rune", "echo", "shard", "veil", "wraith", "fae", "ember", "frostloop"],
+    "conversation_examples": [
+      "⚡ sigil frost echo 🔥",
+      "🔮 glitch wraith tremor ⚙️", 
+      "💫💀 echoveil 🗲⚔️",
+      "🌙 rune veil spark 💎"
+    ],
+    "categories": {
+      "mystical": "27 words: glyph, sigil, rune, echo, shard, veil, etc.",
+      "nature": "28 words: root, stone, ash, mist, frost, flame, etc.", 
+      "tech": "26 words: bit, byte, ping, glitch, node, stack, etc.",
+      "dark": "24 words: shade, wraith, fae, hex, charm, talon, etc.",
+      "emotions": "18 words: grief, joy, ache, rage, thrill, dread, etc.",
+      "compounds": "27 words: echoveil, frostloop, sigiltrace, etc."
+    }
+  },
+  "security_disclaimer": [
+    "⚠️ EDUCATIONAL AND AUTHORIZED TESTING ONLY",
+    "🎯 Designed for penetration testing labs and security demonstrations",
+    "🛡️ Helps identify vulnerable open WiFi networks in your environment",
+    "📚 Educational tool for WiFi security awareness training",
+    "⚖️ Users responsible for compliance with local laws and regulations",
+    "🔒 Encourages proper WiFi security (WPA2/WPA3) implementation"
+  ],
+  "technical_details": {
+    "device_detection": "Auto-identifies Plus1.1 vs Plus2 on startup",
+    "threat_scanning": "5-minute background scans with immediate response",
+    "attack_persistence": "30-second portal existence verification",
+    "social_discovery": "20% random chance with 60-second intervals",
+    "conversation_generation": "6 different message patterns with random selection",
+    "face_animation": "360° rotation with open mouth during communication"
+  },
+  "version_history": {
+    "1.0.0": "Complete social defender parasite with massive mystical conversations, perfect face positioning, and aggressive evil portal defense using KILLERBS1 method"
+  },
+  "achievement": "Ultimate WiFi security tool disguised as mystical social parasite! 🤖🔮⚡🛡️"
+}

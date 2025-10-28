@@ -1,0 +1,57 @@
+{
+  "name": "EvilBotDef1 - Little Parasite Portal Killer",
+  "description": "Adorable evil parasite that automatically hunts and destroys evil portals. Features cute M5Avatar face with advanced KILLERBS1 attack capabilities.",
+  "version": "1.0.0-WORKING-CONFIRMED", 
+  "author": "DefenseTeam & 7h30th3r0n3",
+  "category": "Security/Defense",
+  "chip": "ESP32-S3",
+  "board": "ATOMS3",
+  "flash_size": "8MB",
+  "flash_mode": "DIO",
+  "flash_freq": "80MHz",
+  "bootloader_address": "0x0",
+  "partition_address": "0x8000", 
+  "firmware_address": "0x10000",
+  "file": "EvilBotDef1_ParasitePortalKiller.bin",
+  "features": [
+    "🤖 Adorable Evil Parasite Face - Full M5Avatar expressions (Happy, Sad, Angry, etc.)",
+    "🛡️ Auto-Boot Defender Mode - Starts hunting portals immediately on power-on",
+    "🎯 Aggressive Detection - Targets ALL open WiFi networks as suspicious", 
+    "💥 KILLERBS1 Attack Method - 50 spam bursts with 'Caught Ya Slippin' credentials",
+    "📡 Real-Time Scanning - Automatically scans every 15 seconds for threats",
+    "😈 Reactive Face Animations - Expressions change during hunting/attacking/victory",
+    "🔍 Serial Debug Output - Full operational visibility at 115200 baud",
+    "⚡ Multi-Endpoint Attack - Hits /login, /post, /creds, /ssid, /, /captive",
+    "🎉 Victory Celebrations - Face spins and celebrates successful portal destruction",
+    "🔄 Motion Reactive - Gets angry when shaken, adds to parasite personality"
+  ],
+  "personality": {
+    "type": "Evil Parasite Defender", 
+    "description": "Little fucking parasite with attitude that hates evil portals",
+    "expressions": ["Happy", "Sad", "Sleepy", "Doubt", "Neutral", "Angry"],
+    "behavior": "Cycles through cute expressions normally, gets suspicious when scanning, angry when attacking, celebrates victories"
+  },
+  "attack_specifications": {
+    "method": "KILLERBS1_ENHANCED",
+    "credentials": "Caught Ya Slippin / Ya Damn Fool", 
+    "volume": "50 attacks per burst = 300 total requests (6 endpoints × 50)",
+    "timing": "500ms between attacks for optimal overwhelming",
+    "connection": "Up to 30 retry attempts for persistent connection",
+    "endpoints": ["/login", "/post", "/creds", "/ssid", "/", "/captive"]
+  },
+  "requirements": {
+    "device": "M5Stack AtomS3", 
+    "flash": "8MB minimum",
+    "libraries": ["M5Unified", "M5GFX", "M5Stack-Avatar"]
+  },
+  "operation": {
+    "boot_mode": "Auto-starts in Defender Mode (no button press required)",
+    "scanning": "Every 15 seconds automatic WiFi scan",
+    "detection": "Targets any open WiFi network as potentially malicious", 
+    "attack": "Automatic connection and credential spam flooding",
+    "user_control": "Button press toggles between Defender and Karma modes"
+  },
+  "status": "CONFIRMED WORKING - User tested and verified operational",
+  "usage": "Simply power on near evil portals. The little parasite will automatically detect, connect to, and spam-attack any open WiFi networks to protect innocent victims from credential theft.",
+  "legal": "FOR DEFENSIVE SECURITY PURPOSES ONLY. Designed to overwhelm evil portals and protect users from credential harvesting attacks. Use responsibly and comply with local laws."
+}
